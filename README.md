@@ -1,16 +1,25 @@
 # PlantVSZombieSample1
+
 Practice Cocos2d-x, C++ and Xcode, making a sample of basic PVZ game.
 
 # Usage
 
-Just download the whole zip file and unzip it, it will work :D
+1. This project has already contained `cocos2d` framework, so you do not need to install any other framework to run it.
+
+2. Download the whole zip file and unzip it, this project is only implemented by Xcode on Mac, so please make sure you have installed Xcode on your Mac.
+
+3. Then you have to open folder `proj.ios_mac` and then open the `pvz001.xcodeproj` by Xcode, and then press **command + R** to test it. Thanks for your idea :D
 
 # MindMap
 
 Chinese Version:
 
-![MindMap in Chinese](https://lh3.googleusercontent.com/Id2J4ofH6Xt40lpUvF0xxACCrk3pmiCsIo7UoqMDnIa915sALXEXb7wyAiX5-5zuEf7issogsj7xns6O_EK7ne1fx5IF1D2XpDV_cWuRl2N6m-y_48JQ6yefqCtqQplihYFwytMlrHXc3PkC4BhRR6IwPhNb7DMKNBX1P3wYn66jUlL4FWQzyBlsWmzQ9P5PbXyw5xrqFShv9TGdsPh2-qAAneO64Fi1QqtyiqDKTzcglyaypwpxn1XfcLf41W-Xpyyu5f3zbps4TviHng76O7UmYB_tgOl3o1bE4lB0v4QaR_lq01P3DSUGP5721bMVZC8UibjZ_F8kjHDtXgwD45YxjbrpTD_N39yZg0XsZORNV2UBnnjXmKXzTfaAE0qODUNdozKouDCpahOwxqFJmwQQ3ecnzw3aXN7U_IBCfYfa5xVW10f4RCiMFT-Pf6G-vHpWiy_0n72hZb9K1INS_GcPAcfjChB2z2IcJUYH3xFdVTbgSFmorUR6m4ZtKhY9hTS8GqIGFmxpjJJRskKPrunjtDgsLbANv89fKs-mIfKBfv4Ng3kIZHOOcuBxf7mQUGQ7RDPsCPb5jfqIjcJ7WP5MCCw10WDpkau0nU6JkDEqmVb4J5xy=w1713-h996-no "MindMap in Chinese")
+![](https://ww3.sinaimg.cn/large/006tKfTcgw1fbeyyosn6sj31kw0x3k53.jpg)
 
-# Others
+English Version:
 
-To be completed :D
+> I will add it later :D
+
+# Contact Info.
+
+18702107156@qq.com
