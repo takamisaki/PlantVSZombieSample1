@@ -2,6 +2,12 @@
 
 Practice Cocos2d-x, C++ and Xcode, making a sample of basic PVZ game.
 
+# Present
+
+![](https://ww1.sinaimg.cn/large/006y8lVagw1fbfvean47ij30pw0hq107.jpg)
+
+More Present please refer to https://www.youtube.com/watch?v=Wnl-CWgkxCo
+
 # Usage
 
 1. This project has already contained `cocos2d` framework, so you do not need to install any other framework to run it.
